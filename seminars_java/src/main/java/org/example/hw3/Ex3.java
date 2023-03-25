@@ -10,7 +10,7 @@ import java.util.List;
  * Найти названия книг, в которых простое количество страниц, фамилия автора содержит «А» и
  * год издания после 2010 г, включительно.
 */
-public class Ex3 {
+public class  Ex3 {
     public static void main(String[] args) {
         Book book1 = new Book("Лес", "Иванов", 100.0, 2050, 101);
         Book book2 = new Book("Война", "Петров", 120.0, 1990, 99);
